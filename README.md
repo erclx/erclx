@@ -8,6 +8,8 @@ Software engineer in Gothenburg building LLM agents and developer tools.
 
 [**Caret**](https://github.com/erclx/caret) is a Chrome extension that injects a command-palette prompt picker into Claude, Gemini, and ChatGPT chat inputs. Live on the [Chrome Web Store](https://chromewebstore.google.com/detail/caret/bpmdbibldelkpncegllkeegdpblgehgk).
 
+[**Toolkit**](https://github.com/erclx/toolkit) is an agent-first CLI that installs and syncs governance, skills, and standards across my projects.
+
 ### Background
 
 1.5 years at Volvo Technology building natural language data agents across three engagements. MSc in Complex Adaptive Systems from Chalmers University of Technology.
