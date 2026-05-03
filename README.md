@@ -1,6 +1,6 @@
 ### Eric Le
 
-Software engineer in Gothenburg building LLM agents and developer tools.
+Applied AI engineer in Gothenburg building LLM applications and developer tools.
 
 ### What I build
 
@@ -16,4 +16,4 @@ Software engineer in Gothenburg building LLM agents and developer tools.
 
 ### Connect
 
-Find me on [LinkedIn](https://www.linkedin.com/in/erclx).
+More at [erclx.dev](https://www.erclx.dev). Also on [LinkedIn](https://www.linkedin.com/in/erclx).
