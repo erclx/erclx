@@ -1,6 +1,6 @@
 ### Eric Le
 
-I build the layer between a language model and the job it has to do: agents, the developer tooling around them, and the full-stack work of making either usable by someone else.
+I build the layer between a language model and the job it has to do. That means agents, the developer tooling around them, and the full-stack work of making either usable by someone else.
 
 18 months at Volvo Technology building natural language data agents for engineering teams, then independent work since. MSc in Complex Adaptive Systems from Chalmers University of Technology.
 
