@@ -1,7 +1,7 @@
 ### Eric Le
 
-I build the layer between a language model and the job it has to do. That means agents, the developer tooling around them, and the full-stack work of making either usable by someone else.
+AI engineer based in Gothenburg.
 
-2.5 years of hands-on LLM and agent work: 18 months at Volvo Technology building natural language data agents for engineering teams, then over a year independently shipping developer tools with real users. MSc in Complex Adaptive Systems from Chalmers University of Technology.
+I spent 18 months at Volvo Technology building natural-language tools for engineering data. Since then I have independently released developer tools and AI applications in Python and TypeScript, which comes to 2.5 years of hands-on LLM and agent work. MSc in Complex Adaptive Systems from Chalmers University of Technology.
 
-The pinned repositories below are the current set. Longer write-ups at [erclx.dev](https://www.erclx.dev), and I'm also on [LinkedIn](https://www.linkedin.com/in/erclx).
+The pinned repositories below are my current public work. Longer write-ups are at [erclx.dev](https://www.erclx.dev), and I am also on [LinkedIn](https://www.linkedin.com/in/erclx).
