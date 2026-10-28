@@ -2,6 +2,8 @@
 
 Software developer in Gothenburg. I build open-source tools for coding with AI agents and use them every day.
 
+The two I rely on most:
+
 - **[canon](https://github.com/erclx/canon)**, which takes an agent's work from plan to reviewed pull request in every repository I run
 - **[frameboard](https://github.com/erclx/frameboard)**, a design board where my agents and I sketch interfaces before they become code
 
